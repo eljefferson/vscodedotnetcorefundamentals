@@ -7,6 +7,7 @@ ms.author: rachelap
 ms.date: 06/18/2018
 uid: signalr/index
 ---
+
 # ASP.NET Core SignalR
 
 * [Introduction](xref:signalr/introduction)
@@ -15,6 +16,8 @@ uid: signalr/index
 * [.NET client](xref:signalr/dotnet-client)
 * [HubContext](xref:signalr/hubcontext)
 * [Users and Groups](xref:signalr/groups)
+* [Authentication and Authorization](xref:signalr/authn-and-authz)
+* [Security Considerations](xref:signalr/security)
 * [MessagePack Hub Protocol](xref:signalr/messagepackhubprotocol)
 * [Publish to Azure](xref:signalr/publish-to-azure-web-app)
 * [Streaming](xref:signalr/streaming)
